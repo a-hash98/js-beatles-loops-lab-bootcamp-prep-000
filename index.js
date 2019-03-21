@@ -10,6 +10,14 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 
+function johnLennonFacts(facts){
+  var i = -1
+  while (facts[i] < facts.length){
+    i++
+    facts[i] = facts[i].concat("!!!")
+  }
+  return facts
+}
 function iLoveTheBeatles(num){
   var beatles = []
   do {
