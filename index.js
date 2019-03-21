@@ -17,7 +17,6 @@ function johnLennonFacts(facts){
     i = i + 1
 
   }
-  console.log(facts)
   return facts
 }
 
