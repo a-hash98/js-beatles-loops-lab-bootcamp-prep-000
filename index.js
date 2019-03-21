@@ -14,10 +14,8 @@ function johnLennonFacts(facts){
   var i = 0
   if (facts[i] < facts.length){
     console.log("yes")
-  end
+  }
 end
-
-}
 
 function iLoveTheBeatles(num){
   var beatles = []
