@@ -16,7 +16,7 @@ function johnLennonFacts(facts){
     console.log("yes")
   end
 end
-  
+
 }
 
 function iLoveTheBeatles(num){
